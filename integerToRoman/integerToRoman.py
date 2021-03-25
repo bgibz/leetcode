@@ -12,9 +12,8 @@ class Solution:
 
 sol = Solution()
 t1 = sol.intToRoman(4)
-t2 = sol.intToRoman(1994)
+t2 = sol.intToRoman(1944)
 t3 = sol.intToRoman(58)
-
 print(t1)
 print(t2)
 print(t3)
