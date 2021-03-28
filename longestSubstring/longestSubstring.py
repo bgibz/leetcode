@@ -15,6 +15,7 @@ class Solution:
                     longest = count
         return longest
 
+
 sol = Solution()
 print(sol.lengthOfLongestSubstring(s="dvdf"))
 print(sol.lengthOfLongestSubstring(s="pwwkew"))
